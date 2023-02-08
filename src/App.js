@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-         New branch created in dev
+         New branch created in dev branch
         </a>
       </header>
     </div>
