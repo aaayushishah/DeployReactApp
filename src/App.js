@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-         Demo Jenkins
+         Test using ngrok webhook
         </a>
       </header>
     </div>
