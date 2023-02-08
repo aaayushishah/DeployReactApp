@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-         NGROK webhook worked
+         New branch created in dev
         </a>
       </header>
     </div>
